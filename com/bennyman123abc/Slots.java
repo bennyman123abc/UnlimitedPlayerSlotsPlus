@@ -12,7 +12,7 @@ public class Slots extends org.bukkit.plugin.java.JavaPlugin implements Listener
 	@Override
     public void onEnable()
     {
-      getLogger().info("Plugin Made by bennyman123abc");
+//      getLogger().info("Plugin Made by bennyman123abc");
       org.bukkit.Bukkit.getServer().getPluginManager().registerEvents(this, this);
     }
   
