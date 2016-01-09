@@ -1,3 +1,8 @@
 name: UnlimitedPlayerSlotsPlus
 main: com.bennyman123abc.Slots
 version: 1.1
+commands:
+    togglejoinonfull:
+    	aliases: [tjof, joinonfull, jof, fulljoin, fj, togglejoin, tj]
+        description: Toggles Whether Players With Permission can Join the Server When it's Full
+        usage:
