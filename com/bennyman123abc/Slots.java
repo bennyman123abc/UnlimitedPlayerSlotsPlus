@@ -1,11 +1,8 @@
 package com.bennyman123abc;
  
-import java.util.logging.Logger;
-import org.bukkit.Server;
+import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerLoginEvent;
-import org.bukkit.event.player.PlayerLoginEvent.Result;
-import org.bukkit.plugin.PluginManager;
  
 public class Slots extends org.bukkit.plugin.java.JavaPlugin implements Listener
 {
